@@ -23,7 +23,7 @@ Before running this project, ensure you have the following installed:
 
 1. **Clone the Repository:**
    
-   git clone https://github.com/your-username/your-repository.git
+   git clone [https://github.com/your-username/your-repository.git](https://github.com/DasunKAD/spring-boot-jwt-example.git)
    cd your-repository
 2. **Configure Application Properties:**
  - Open src/main/resources/application.properties or application.yml.
